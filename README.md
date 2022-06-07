@@ -18,6 +18,16 @@ https://github.com/mobius1qwe/RDWDemos
 ----------------
 **Contribuições deste repo:**
 
+## branch 2022-06-07
+* Novos parâmetros (gerados dinâmicamentes): 'URI', 'Document' e 'AuthUsername' (redundante este último, talvez).
+Vêm com dados internos, direto do request HTTP.
+
+Uso:
+> wURI := Params.ItemsString['URI'].asString;
+
+* Recolocando correção para 'ServerContext not found'
+
+
 ## fim de 2020-03:
 
 ## pegar o IP do Client remoto, apartir de novo parâmetro RemoteIP para eventos de ServerContexts ou ServerEvents
