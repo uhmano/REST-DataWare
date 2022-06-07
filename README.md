@@ -18,6 +18,9 @@ https://github.com/mobius1qwe/RDWDemos
 ----------------
 **Contribuições deste repo:**
 
+## 2022-06-07
+teste
+
 ## fim de 2020-03:
 
 ## pegar o IP do Client remoto, apartir de novo parâmetro RemoteIP para eventos de ServerContexts ou ServerEvents
