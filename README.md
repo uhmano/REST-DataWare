@@ -16,10 +16,17 @@ https://github.com/mobius1qwe/RDWDemos
 * https://t.me/restdataware
 
 ----------------
-**Contribuições deste repo:**
+# Contribuições deste repo:
 
 ## 2022-06-07
-teste
+* Novos parâmetros (gerados dinâmicamentes): 'URI', 'Document' e 'AuthUsername' (redundante este último, talvez).
+Vêm com dados internos, direto do request HTTP.
+
+    // uso  <br>
+    > wURI := Params.ItemsString['URI'].asString; <br>
+
+- Recolocando correção para encontrar endpoints de ServerContexts
+<br>
 
 ## fim de 2020-03:
 
